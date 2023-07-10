@@ -1,5 +1,6 @@
 📝 ##Task:
-In this task, I was provided with a dataset containing passenger information such as age, gender, ticket class, and more. My objective was to build a machine-learning model that could accurately predict whether a passenger survived or perished in the Titanic disaster.
+In this task, I was provided with a dataset containing passenger information such as age, gender, ticket class, and more. My objective was to build a machine-learning
+model that could accurately predict whether a passenger survived or perished in the Titanic disaster.
 💡 ##Methodology:
 To address this problem, I followed a comprehensive approach:
 1️⃣ Data Preprocessing: I carefully cleaned the data, handled missing values, and converted categorical variables into numerical form to prepare the dataset for modeling.
